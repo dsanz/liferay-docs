@@ -5,7 +5,7 @@ As you create sites, you'll probably want to share files on them.
 and publish all kinds of files on your sites. Pictures, videos, spreadsheets,
 slide presentations and more can be stored in and shared from the Document
 Library. Document Library instances can be scoped to a @product@ instance,
-site, or page, so you can work with files where their relevant.
+site, or page, so you can work with files where they are relevant.
 
 In this chapter, you'll learn how to add files, display them, and collaborate on
 them. You can upload all kinds of files, including custom file types, to the
@@ -23,7 +23,7 @@ might want to share photos and video files or embed them in web content. Or you
 might simply want to back them up from your device to your site. You may have
 important documents that you want to share with other users. And you might want
 to collaborate on documents with other users. All of these examples include
-first uploading a files to your site.
+first uploading a file to your site.
 
 To demonstrate adding files to a Document Library, we'll implement a use case
 for the Lunar Resort. Resort photographers take lots of photos and video footage
