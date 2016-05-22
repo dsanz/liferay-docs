@@ -23,7 +23,7 @@ might want to share photos and video files or embed them in web content. Or you
 might simply want to back them up from your device to your site. You may have
 important documents that you want to share with other users. And you might want
 to collaborate on documents with other users. All of these examples include
-first uploading a files to your site.
+first uploading a file to your site.
 
 To demonstrate adding files to a Document Library, we'll implement a use case
 for the Lunar Resort. Resort photographers take lots of photos and video footage
