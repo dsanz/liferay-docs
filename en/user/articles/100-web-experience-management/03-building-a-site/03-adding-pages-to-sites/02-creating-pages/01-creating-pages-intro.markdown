@@ -39,6 +39,8 @@ From *Pages* you can do several things:
 3.  Create child pages by clicking the `+` button next to an existing page.
 
 ![Figure 2: Understanding the options on Site Pages.](../../../../../images/site-pages-breakdown.png)
+ ↑ This figure says "Chile page" where it should say "Child page"
+
 
 Adding a child page creates child pages in the hierarchy below the page you've 
 selected. You can nest pages as deep as you like.
